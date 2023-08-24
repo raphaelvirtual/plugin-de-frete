@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="33" viewBox="0 0 45 33">
+  <g id="Grupo_53" data-name="Grupo 53" transform="translate(-345 -817)">
+    <g id="BG" transform="translate(345 817)" fill="#fff" stroke="#666" stroke-width="1">
+      <rect width="45" height="33" stroke="none"/>
+      <rect x="0.5" y="0.5" width="44" height="32" fill="none"/>
+    </g>
+    <g id="Next" transform="translate(315 327)">
+      <g id="Left">
+        <path id="_" data-name="" d="M55,507.82H43.2l2.969,3.008L45,512l-5-5,5-5,1.172,1.171L43.2,506.179H55Z" fill="#3e3e3f"/>
+        <path id="_copy" data-name=" copy" d="M54.2,506.179H66v1.64H54.2" fill="#3e3e3f"/>
+      </g>
+    </g>
+  </g>
+</svg>
